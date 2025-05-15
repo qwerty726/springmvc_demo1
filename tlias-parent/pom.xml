@@ -103,7 +103,7 @@
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
 
-        <!-- snapshot版本的发布地址 -->
+        <!-- snapshot版本的发布地址111 -->
         <snapshotRepository>
             <id>maven-snapshots</id>
             <url>http://localhost:8081/repository/maven-snapshots/</url>
