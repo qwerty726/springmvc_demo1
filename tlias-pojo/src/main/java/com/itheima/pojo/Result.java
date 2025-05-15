@@ -26,4 +26,8 @@ public class Result {
     public static Result error(String msg) {
         return new Result(0, msg, null);
     }
+
+    public static Result error3() {
+        return new Result(0, null, null);
+    }
 }
